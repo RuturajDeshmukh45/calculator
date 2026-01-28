@@ -1,0 +1,25 @@
+  body {
+      min-height: 100vh;
+      background: #f1f3f6;
+    }
+
+    .calculator {
+      width: 320px;
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    }
+
+    .display {
+      height: 60px;
+      font-size: 26px;
+      text-align: right;
+      border-radius: 12px;
+    }
+
+    .pill-btn {
+      height: 60px;
+      font-size: 22px;
+      border-radius: 50px;
+    }
